@@ -151,5 +151,5 @@ while not fim_jogo:
     pygame.time.wait(2)
     pygame.display.flip()
 pygame.quit()    
-        
+        #fmmfpomfo
            
